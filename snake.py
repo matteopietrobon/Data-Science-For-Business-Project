@@ -252,8 +252,8 @@ class Neural_Net(object):
         
 n_gamers = 100
 grid_size=[20,20]
-epochs = 15
-moves = 50
+epochs = 20
+moves = 30
 n_weights= 30
 
 #♣ generate initial weights randomly
